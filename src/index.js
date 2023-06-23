@@ -95,12 +95,13 @@ const styles = StyleSheet.create({
         borderWidth:1/2,
         borderRadius:5,
         borderColor:'#68b2a0',
+        backgroundColor:'#16a085',
         justifyContent:'center',
         alignItems:'center'
     },
     buttonText: {
         fontSize:20,
-        color:'#fff',
+        color:'#2c3e50',
         fontWeight:'bold'
     },
     resultView: {
